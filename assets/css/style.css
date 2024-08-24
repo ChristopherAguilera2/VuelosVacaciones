@@ -1,0 +1,27 @@
+.formulario button{
+    color: #051B54;
+}
+.formulario select{
+    color: #051B54;
+}
+
+nav.navbar{
+    background: #051B54;
+}
+
+button.iniciar{
+    background-color: #FFFFFF33;
+}
+div.fondo{
+    background-color: #62DAD3;
+}
+body{
+    font-family: Verdana;
+}
+#titulo{
+    font-family: "Gill Sans";font-size: 22px;
+}
+
+.datos input{
+    margin-right: 25px;
+}
